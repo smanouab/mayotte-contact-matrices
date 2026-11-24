@@ -42,7 +42,7 @@ The study further examines how alternative contact matrix constructions affect t
 3. Université Bretagne Sud, UMR CNRS 6205, LMBA, Vannes, France.
 4. Agence régionale de santé de Mayotte, Mamoudzou, France.
 
-*Corresponding author: [solym.manou.abi@math.univ-poitiers.fr](mailto:solym.manou.abi@math.univ-poitiers.fr)*
+*Corresponding author: [solym.manou.abi@univ-poitiers.fr](mailto:solym.manou.abi@univ-poitiers.fr)*
 
 ---
 
