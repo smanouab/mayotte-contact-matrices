@@ -23,7 +23,7 @@ This repository contains the computational materials, statistical analyses, and 
 
 **"Estimation and Sensitivity Analysis of Age-Specific Contact Matrices from a Short Survey in Mayotte"**
 
-The study investigates the estimation of age-specific contact matrices in Mayotte, a population characterized by a particularly young age structure, using data from the **2021 MayCov serosurvey**.
+The study investigates the estimation of age-specific contact matrices in Mayotte, a population characterized by a particularly young age structure, using data from the **MayCov serosurvey**.
 
 Particular attention is given to the impact of unusually large reported contact counts (heaping), exclusion rules, disagreement between reciprocal age-specific reports, and assumptions about contacts among minors.
 
